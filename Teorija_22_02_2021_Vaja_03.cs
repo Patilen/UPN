@@ -24,8 +24,9 @@ namespace Vaja_03
                 vnos = Convert.ToInt32(Console.ReadLine());
             }
 
-            Console.WriteLine(vsota);
+            Console.WriteLine("Vsota vseh vnesenih števil je: " + vsota);
             Console.ReadKey(true);
         }
     }
 }
+
