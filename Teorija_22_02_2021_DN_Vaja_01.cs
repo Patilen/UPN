@@ -16,7 +16,7 @@ namespace UPN_Naloga
 
             while (x != 1)
             {
-                Console.WriteLine("Vnesite število: ");
+                Console.WriteLine("Vnesite število:");
                 x = int.Parse(Console.ReadLine());
 
                 if (x > najvecje)
