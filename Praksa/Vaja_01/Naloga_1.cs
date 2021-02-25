@@ -27,7 +27,6 @@ namespace Naloga1
             //Inicilizacija 
             int yI = 12;
             int vsota = xI + yI;
-
             string ime = "Janez Novak";
 
         }
