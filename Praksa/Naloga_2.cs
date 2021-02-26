@@ -14,7 +14,9 @@ namespace Naloga_2
         {
             Console.WriteLine("Vnesi ime barve:");
             char barva = Convert.ToChar(Console.ReadLine());
-
+            
+            barva = Char.ToLower(barva);
+            
             switch (barva)
             {
                 case 'r':
