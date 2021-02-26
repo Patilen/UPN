@@ -15,7 +15,7 @@ namespace Naloga_4
             Console.Write("Vnesi spol: ");
             char spol = Convert.ToChar(Console.ReadLine());
             
-            spol = char.ToLower(spol);
+            spol = Char.ToLower(spol);
 
             switch (spol)
             {
