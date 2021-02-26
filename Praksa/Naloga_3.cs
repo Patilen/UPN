@@ -10,7 +10,7 @@ namespace Naloga_3
 {
     class Program3
     {
-        static void Main(string[] args) // By Jon-Nik Gorenak
+        static void Main(string[] args) // By Jon-Nik Gorenak, R-2.b
         {
             Console.WriteLine("Vnesi oceno:");
             int ocena = Convert.ToInt32(Console.ReadLine());
