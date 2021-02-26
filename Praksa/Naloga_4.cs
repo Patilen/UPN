@@ -23,7 +23,7 @@ namespace Naloga_4
                     Console.WriteLine("M-Moski");
                     break;
                 case 'z':
-                    Console.WriteLine("Z-zenski");
+                    Console.WriteLine("Z-Zenski");
                     break;
                 default:
                     Console.WriteLine("Vpisali ste napacen spol");
