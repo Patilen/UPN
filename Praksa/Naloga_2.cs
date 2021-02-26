@@ -10,7 +10,7 @@ namespace Naloga_2
 {
     class Program2
     {
-        static void Main(string[] args)  // By Jon-Nik Gorenak
+        static void Main(string[] args)  // By Jon-Nik Gorenak, R-2.b
         {
             Console.WriteLine("Vnesi ime barve:");
             char barva = Convert.ToChar(Console.ReadLine());
