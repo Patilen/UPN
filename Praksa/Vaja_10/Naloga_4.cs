@@ -20,13 +20,13 @@ namespace Naloga_4
             switch (spol)
             {
                 case 'm':
-                    Console.WriteLine("M-Moski");
+                    Console.WriteLine("Moski");
                     break;
                 case 'z':
-                    Console.WriteLine("Z-Zenski");
+                    Console.WriteLine("Zenski");
                     break;
                 default:
-                    Console.WriteLine("Vpisali ste napacen spol");
+                    Console.WriteLine("Vpisali ste napačen spol");
                     break;
             }
             Console.ReadLine();
