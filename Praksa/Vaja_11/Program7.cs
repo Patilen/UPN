@@ -11,14 +11,16 @@ namespace Naloga7
         static void Main(string[] args)
         {
             float rezultat = 0;
+            int i = 0;
             while (rezultat < 1000)
             { 
                 Console.Write("Vnesi število: ");
                 float x = float.Parse(Console.ReadLine());
 
-                rezultat++;
+                rezultat += x;
+                i++;
             }
-            Console.WriteLine("Vsota vpisanih vrednosti je {0}", rezultat);
+            Console.WriteLine(rezultat);
             Console.ReadLine();
         }
     }
