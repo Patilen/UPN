@@ -20,7 +20,7 @@ namespace Naloga7
                 rezultat += x;
                 i++;
             }
-            Console.WriteLine(rezultat);
+            Console.WriteLine(i);
             Console.ReadLine();
         }
     }
