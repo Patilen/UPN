@@ -17,7 +17,7 @@ namespace Naloga4
 
             for (int i = 0; i < 1000; i++)
             {
-                rnd2 = rnd.Next(10);
+                rnd2 = rnd.Next(1, 10);
                 Console.WriteLine(rnd2);
 
                 if (rnd2 <= 5)
