@@ -16,7 +16,7 @@ namespace Naloga7
                 Console.Write("Vnesi število: ");
                 float x = float.Parse(Console.ReadLine());
 
-                rezultat += x;
+                rezultat++;
             }
             Console.WriteLine("Vsota vpisanih vrednosti je {0}", rezultat);
             Console.ReadLine();
