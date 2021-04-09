@@ -11,3 +11,5 @@ Github je spletna aplikacija za shranjevanje, nadzor, deljenje, urejanje program
 Je brezplačna (odprtokodna) programska oprema. 
 
 V našem primeru se uporablja za deljenje nalog pri predmetu UPN.
+
+ ![visitors](https://page-views.glitch.me/badge?page_id=Patilen.UPN)
